@@ -1,0 +1,12 @@
+# Binaries (generated).
+/bin/
+
+# Libraries (generated).
+/lib/
+
+# Data files.
+/var/
+
+# Editor temporary files.
+# Vim.
+.*.swp
